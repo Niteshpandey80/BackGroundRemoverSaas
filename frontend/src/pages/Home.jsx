@@ -1,9 +1,12 @@
 import React from 'react'
+import Header from '../components/Header'
+import Steps from '../components/Steps'
 
 const Home = () => {
   return (
     <div>
-      <h1>Heom</h1>
+      <Header/>
+      <Steps/>
     </div>
   )
 }
