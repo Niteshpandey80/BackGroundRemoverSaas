@@ -19,7 +19,7 @@ const Header = () => {
           Lorem Ipsum is simply dummy text of the printing and typesetting
           industry.
           <br className="max-sm:hidden" />
-          
+          Lorem Ipsum has been the industry's standard dummy text ever.
         </p>
 
         <div>
