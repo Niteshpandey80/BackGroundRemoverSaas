@@ -20,6 +20,7 @@ import bro1 from './bro1.png'
 import bro2 from './bro2.png'
 import bro3 from './bro3.png'
 import bg from './bg.png'
+import mylogo from './mylogo.png'
 
 export const assets = {
     logo,
@@ -41,7 +42,8 @@ export const assets = {
     bro1,
     bro2,
     bro3,
-    bg
+    bg,
+    mylogo
 }
 
 export const testimonialsData = [
