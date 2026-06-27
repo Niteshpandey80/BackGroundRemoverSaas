@@ -10,3 +10,9 @@ app.use(express.json());
 app.use(cors())
 await connectDB()
 
+app.get('/' , (req,res)=>{
+    res.send("Api Working")
+})
+app.listen(PORT , ()=>
+console.log("Runing on Port " + PORT)
+)
